@@ -1,2 +1,2 @@
 # git
-git project
+this is for devops project 
